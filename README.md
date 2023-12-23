@@ -2,9 +2,6 @@
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
-## Developed by : D.Devadhaarini
-## Register no.: 212223230040
-
 ## Software required :
 Visual components and Python
 
@@ -17,13 +14,13 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-
-
 ## Experiment:
 
 ![Screenshot 2023-12-21 223808](https://github.com/Devadhaarini/Muttiple-capacity-with-infinite-capacity/assets/145796552/b57bef07-4947-4b04-be1e-76227cb8c4f2)
 ![Screenshot 2023-12-21 223825](https://github.com/Devadhaarini/Muttiple-capacity-with-infinite-capacity/assets/145796552/a6318ccc-eb73-42dd-b1a1-a42982e8dde0)
+
+## Developed by : D.Devadhaarini
+## Register no.: 212223230040
 
 ## Program
 
